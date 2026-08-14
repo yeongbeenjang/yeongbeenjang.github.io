@@ -10,8 +10,7 @@ I am an undergraduate researcher in Mechanical Engineering at Hanyang University
 
 ## Education
 
-**B.S. in Mechanical Engineering**, Hanyang University, South Korea
-*Mar. 2021 – Present*
+**B.S. in Mechanical Engineering**, Hanyang University, South Korea<br>*Mar. 2021 – Present*
 
 
 ## Research Interests
@@ -24,7 +23,7 @@ I am an undergraduate researcher in Mechanical Engineering at Hanyang University
 ## Research Experience
 
 **Undergraduate Researcher**, Optical Nanoprocessing Laboratory, Hanyang University
-*Advisor: Prof. Suk-Joon Hong · Jan. 2024 – Sep. 2024*
+<br>*Advisor: Prof. Suk-Joon Hong · Jan. 2024 – Sep. 2024*
 
 - Developed a LabVIEW-based measurement interface for bio-integrated devices
 - Fabricated and analyzed PEDOT:PSS-based samples
@@ -32,7 +31,7 @@ I am an undergraduate researcher in Mechanical Engineering at Hanyang University
 ## Personal Projects
 
 **Vena Contracta Flow Analysis in Blood Vessels using ANSYS Fluent**
-*Spring 2024 — Applied Fluid Mechanics Design course project*
+<br>*Spring 2024 — Applied Fluid Mechanics Design course project*
 
 
 ## Contact
