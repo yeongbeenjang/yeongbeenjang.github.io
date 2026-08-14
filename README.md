@@ -1,7 +1,7 @@
 # yeongbeenjang.github.io
 # Yeong
 
-Undergraduate Researcher, Mechanical Engineering, Hanyang University ERICA
+Undergraduate Researcher, Mechanical Engineering, Hanyang University 
 
 **Wearable Bioelectronics** · **Skin-Device Interface Mechanics** · **FEM Simulation** · **CFD & ML Surrogate Modeling**
 
