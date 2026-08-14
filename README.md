@@ -23,7 +23,7 @@ I am an undergraduate researcher in Mechanical Engineering at Hanyang University
 ## Research Experience
 
 **Undergraduate Researcher**, Optical Nanoprocessing Laboratory, Hanyang University
-<br>*Advisor: Prof. Suk-Joon Hong · Jan. 2024 – Sep. 2024*
+<br>*Advisor: Prof. Suk-Joon Hong · Jan. 2024 – Sep. 2024, Aug. 2026 - Present*
 
 - Developed a LabVIEW-based measurement interface for bio-integrated devices
 - Fabricated and analyzed PEDOT:PSS-based samples
