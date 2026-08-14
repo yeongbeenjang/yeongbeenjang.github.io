@@ -13,7 +13,6 @@ I am an undergraduate researcher in Mechanical Engineering at Hanyang University
 **B.S. in Mechanical Engineering**, Hanyang University, South Korea
 *Mar. 2021 – Present*
 
-- Cumulative GPA: 3.75 / 4.5 (108 of 130 credits completed)
 
 ## Research Interests
 
