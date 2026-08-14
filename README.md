@@ -1,44 +1,40 @@
 ## About
 
-I am an undergraduate researcher in Mechanical Engineering, currently preparing for graduate studies with a focus on "research". My work combines analytical/FEM-based mechanics analysis with data-driven modeling approaches.
+I am an undergraduate researcher in Mechanical Engineering at Hanyang University, preparing for graduate studies with a focus on fluid mechanics, computational fluid dynamics (CFD), and thermofluid engineering.
 
-**Research Interests**: Wearable Bioelectronics · Skin-Device Interface Mechanics · FEM Simulation · CFD & ML Surrogate Modeling
+**Research Interests**: Fluid Mechanics & Multiphase Flow · Computational Fluid Dynamics (CFD) · Simulation-Based Flow System Design · Thermal Energy Systems & Thermofluid Engineering
 
-[Email](mailto:jyb0730@hanyang.ac.kr) | [GitHub](https://github.com/yeongbeenjang) | [Instagram](https://www.instagram.com/yeongvertz)
+[Email](mailto:jyb0730@hanyang.ac.kr) | [GitHub](https://github.com/yeongbeenjang)
 
 ---
 
-## Research Interests
-
-- **Wearable Bioelectronics**: e-tattoo and nanomesh sensor design, substrate-less receptor architectures
-- **Skin-Device Interface Mechanics**: effects of substrate thickness and elastic modulus on strain transfer ratio and crosstalk index
-- **FEM-Based Simulation**: mechanical behavior modeling using COMSOL and ANSYS
-- **CFD & Machine Learning Surrogate Modeling**: coupling physics-based simulation with data-driven surrogate models
-
 ## Education
 
-- **B.S.**, Mechanical Engineering, Hanyang University (Expected)
-  - GPA: 3.75 / 4.5 (108 credits)
-  - Relevant coursework: Solid Mechanics, Fluid Mechanics, Numerical Analysis
+**B.S. in Mechanical Engineering**, Hanyang University, South Korea
+*Mar. 2021 – Present*
 
-## Projects
+- Cumulative GPA: 3.75 / 4.5 (108 of 130 credits completed)
 
-### 
-### CFD + ML Surrogate Modeling for Droplet Generation
-Investigating T-junction droplet generation using OpenFOAM (VOF/interFoam solver), with a planned MLP + Gaussian Process Regression (GPR) surrogate model architecture to approximate simulation outcomes and accelerate design-space exploration.
+## Research Interests
 
-`OpenFOAM` `Python` `Machine Learning` `Surrogate Modeling`
+- **Fluid Mechanics & Multiphase Flow**: analysis of complex flow phenomena involving multiple phases
+- **Computational Fluid Dynamics (CFD)**: flow analysis using numerical simulation methods
+- **Simulation-Based Flow System Design**: applying CFD to the design and optimization of fluid systems
+- **Thermal Energy Systems & Thermofluid Engineering**: coupling thermal and fluid behavior in energy system design
 
-### Skin-Device Interface Mechanics for Wearable Sensors
-Analytical and literature-based investigation of how substrate thickness and elastic modulus affect strain transfer and signal crosstalk in e-tattoo and nanomesh-based wearable sensors, informed by recent advances in substrate-less nanomesh receptors and e-tattoo materials.
+## Research Experience
 
-`FEM` `COMSOL` `Bioelectronics`
+**Undergraduate Researcher**, Optical Nanoprocessing Laboratory, Hanyang University
+*Advisor: Prof. Seok-Jun Hong · Jan. 2024 – Sep. 2024*
 
-## Skills
+- Developed a LabVIEW-based measurement interface for bio-integrated devices
+- Fabricated and analyzed PEDOT:PSS-based samples
 
-- **Simulation**: COMSOL Multiphysics, ANSYS, OpenFOAM
-- **Programming**: Python, MATLAB
-- **Domain Knowledge**: Solid Mechanics, Fluid Mechanics, Numerical Analysis
+## Personal Projects
+
+**Vena Contracta Flow Analysis in Blood Vessels using ANSYS Fluent**
+*Spring 2024 — Applied Fluid Mechanics Design course project*
+
 
 ## Contact
 
